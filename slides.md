@@ -187,7 +187,7 @@ image : https://s.abcnews.com/images/Sports/iga-swiatek-usa-jt-220909_1662739774
 
 # Tennis kata
 
-Implémenter le score d'un jeu au tennis.
+Refactorer l'implémentation du score d'un jeu au tennis.
 
  <span class="highlight">**Règles**</span>
 
@@ -196,6 +196,20 @@ Implémenter le score d'un jeu au tennis.
 - Celui qui marque le point suivant obtient un “Avantage”
 - Si un joueur qui a l’avantage marque, il gagne le jeu 
 - Si l'autre joueur marque, on revient à “Égalité”
+
+---
+layout : default
+---
+
+# Tennis kata
+
+ <span class="highlight">**Scénario**</span>
+
+Imaginez que l'un de vos collègues malade a fini l'implémentation et que tous les tests passent avec succès.
+
+Votre responsable vous demande de prendre le relais pour travailler sur les 1,5h restant à facturer. Elle vous demande de  <span class="highlight">nettoyer un peu le code</span> et de préparer un retour à votre collègue sur ses choix de conception.
+
+La suite de tests fournie est complète et rapide à exécuter. Vous ne devriez pas avoir besoin de modifier les tests, mais seulement de les exécuter fréquemment au fur et à mesure de votre refactorisation.
 
 
 ---
