@@ -238,7 +238,7 @@ Vitest
 layout: three-cols-header
 ---
 
-# Rôles (tourne toutes les 5 minutes)
+# Rôles (tourne toutes les 3 minutes)
 
 ::left::
 ## Au clavier 
